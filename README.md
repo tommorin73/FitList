@@ -3,7 +3,7 @@ A Swift program which allows users to plan their workouts! COMP 5970 Final Proje
 
 StopWatch funcitonality coming soon!
 
-This was the result of a smeester spent learning to work with Swift. 
+This was the result of a semester spent learning to work with Swift. 
 Implemented a dictionary and property list to allow the user to save specific exercises and their descriptions.
 Exercises can be added, deleted, and rearranged to the user’s needs.
 
